@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115364008996",
+    "project_id": "registration-form-d0589",
+    "storage_bucket": "registration-form-d0589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115364008996:android:bb0ca6bdec7a1ecbf1f4b1",
+        "android_client_info": {
+          "package_name": "com.example.advance_registration_form_ch1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115364008996-dvjde7spk37e8r747440b8th6k9t1rmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeWxpA6ZfjYvgLbHNudYbeEUJ_q8LdtSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115364008996-dvjde7spk37e8r747440b8th6k9t1rmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
